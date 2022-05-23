@@ -106,5 +106,19 @@ func VerifyCoordinates(player map[int][]string, coordinates []string) bool {
 		}
 	}
 
+	//
+	//for _, value := range coordinates {
+	//	if _, ok := player[value]; !ok {
+	//
+	//	}
+	//}1
+
 	return false
 }
+
+// []string == [c1,d1,......J10]
+
+// map[string]{}
+// map[A2]{} map[A3]{}
+
+//key

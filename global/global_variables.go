@@ -1,5 +1,6 @@
 package global
 
+// Columns and Rows are used to define the battle area range
 var Columns = []string{"A", "B", "C", "D", "E", "F", "G", "H", "I", "J"}
 var Rows = []string{"1", "2", "3", "4", "5", "6", "7", "8", "9", "10"}
 
